@@ -1,0 +1,8 @@
+package interfaces;
+
+public class Utils {
+		public void RunLogger(Logger[] logger,String message) {
+			
+			
+		}
+}

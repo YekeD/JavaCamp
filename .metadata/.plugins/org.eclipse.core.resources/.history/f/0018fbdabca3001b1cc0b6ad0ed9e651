@@ -1,0 +1,29 @@
+package intro;
+
+public class Stringler {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String[] orgrenciler = new String[3];
+		orgrenciler[0] = "Ahmet";
+		orgrenciler[1] = "Dogan";
+		orgrenciler[2] = "mehmet";
+		for(int i = 0; i<orgrenciler.length;i++) {
+			System.out.println(orgrenciler[i]);			
+		}
+		for(String orgrenci:orgrenciler) {
+			System.out.println(orgrenci);
+			
+		}
+		double[] myList = {1.2,2.4,3.5,4.8,5.3,6.4};
+		double total = 0;
+		for(double ondalýk:myList) {
+			total = total + ondalýk;
+			System.out.println(ondalýk);
+			
+			
+		}
+		
+	}
+
+}

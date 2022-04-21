@@ -1,0 +1,7 @@
+package inheritance;
+
+public class IndividualCustomer extends Custoemr{
+	private	String firstName;
+	private String lastName;
+	private String nationalIdentity;
+}

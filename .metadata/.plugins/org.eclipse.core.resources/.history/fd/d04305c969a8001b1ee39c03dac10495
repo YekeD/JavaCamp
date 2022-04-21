@@ -1,0 +1,9 @@
+
+
+public class FileLogger extends Logger{
+	public void log() {
+		@Override
+		System.out.println("database Yollandý");
+		
+	}
+}

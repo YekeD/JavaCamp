@@ -1,0 +1,12 @@
+package interfaces;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		CustomerManager customermanager = new CustomerManager(new EmailLogger());
+		Customer arda = new Customer(1,"Arda","Yeke");
+		customermanager.add(arda);
+	}
+
+}

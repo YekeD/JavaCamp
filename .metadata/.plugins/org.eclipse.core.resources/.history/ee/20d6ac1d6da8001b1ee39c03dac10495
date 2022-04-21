@@ -1,0 +1,20 @@
+package inheritance;
+
+
+public class CustomerManager {
+	public void add(Customer customer) {
+		//customer kendi extends lerinideki ayrýntýlarý çalýþtýramaz.
+		// ama extendslerin temeli olduðun için customerNumber ve id gibi deðiþkenleri
+		//çalýþtýrabilir
+		System.out.println(customer.customerNumber + "Kaydedildi.");
+	}
+	//bulk insert
+	public void  addMultiple(Customer[] customers) {
+		for(Customer customer : customers) {
+			add(customer);
+			
+		}
+		
+	}
+	
+}

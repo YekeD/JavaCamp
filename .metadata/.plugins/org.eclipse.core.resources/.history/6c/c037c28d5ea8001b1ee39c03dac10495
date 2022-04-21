@@ -1,0 +1,6 @@
+package inheritance;
+
+public class CorparateCustomer {
+	private String companyName;
+	private String taxNumber;
+}

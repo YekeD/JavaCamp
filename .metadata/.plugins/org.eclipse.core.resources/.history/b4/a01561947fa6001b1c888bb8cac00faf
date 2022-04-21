@@ -1,0 +1,16 @@
+
+public class Course {
+	
+	public Course(int id,String courseName,String courseLecturer,String courseDetail) {
+		this.id = id;
+		this.courseName = courseName;
+		this.courseLecturer = courseLecturer;
+		this.courseDetail = courseDetail;
+	}
+	
+		
+	int id;	
+	String courseName;
+	String courseLecturer;
+	String courseDetail;
+}

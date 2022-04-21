@@ -1,0 +1,13 @@
+
+public class Category {
+	
+	public Category(int id,String categoryName,Course[] courses) {
+		this.id = id;
+		this.categoryName = categoryName;
+		this.courseList = courses;
+	}
+	
+	int id;
+	String categoryName;
+	Course[] courseList;
+}

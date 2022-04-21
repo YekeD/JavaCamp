@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Course course1 = new Course(1,"Yazýlým Geliþtirme Kampý","Engin Demirog","C# + Angler");
+		Course course2 = new Course(2,"Yazýlým Geliþtirici Geliþtirme Kampý","Engin Demirog","Java + React");
+		Course course3 = new Course(1,"Programlamaya Giriþ Temel Kurs","Engin Demirog","C# + PYTHON + JAVA vb.");
+	}
+	
+
+}

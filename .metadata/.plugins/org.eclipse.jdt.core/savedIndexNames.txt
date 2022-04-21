@@ -1,0 +1,11 @@
+INDEX VERSION 1.131+/Users/ardayeke/Documents/Dev/javacamp/.metadata/.plugins/org.eclipse.jdt.core
+1700388264.index
+1626509723.index
+2985427524.index
+2117154565.index
+3546805591.index
+3652241215.index
+2353178382.index
+2602509437.index
+960590117.index
+3597746103.index

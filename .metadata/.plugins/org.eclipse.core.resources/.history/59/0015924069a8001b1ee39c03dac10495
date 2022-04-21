@@ -1,0 +1,9 @@
+
+public class EmailLogger extends Logger{
+		
+	public void log() {
+			@override
+			System.out.println("Email Yollandý");
+			
+	}
+}

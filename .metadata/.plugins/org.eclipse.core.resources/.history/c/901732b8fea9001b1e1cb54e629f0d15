@@ -1,0 +1,14 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String mesaj = "bugün hava çok güzel";
+		
+		System.out.println(mesaj);
+		System.out.println("as" + mesaj.charAt(4));
+		System.out.println("sa" + mesaj.length());
+		System.out.println(mesaj.concat("Yaşasın"));
+		System.out.println(mesaj.startsWith("A"));
+	}
+}

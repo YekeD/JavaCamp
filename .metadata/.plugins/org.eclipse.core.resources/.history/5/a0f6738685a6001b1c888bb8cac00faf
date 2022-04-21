@@ -1,0 +1,22 @@
+
+public class CourseManager {
+	public void printCourseDetails(Course course) {
+		System.out.println("Id : " + course.id);
+		System.out.println("Lecturer : " + course.courseLecturer);
+		System.out.println("Name : " + course.courseName);
+		System.out.println("Details : " + course.courseDetail);
+		
+	}
+	public void courseStart(Course course) {
+		System.out.println("Kursa başlandı.. : " + course.courseName + "|" +  course.courseDetail);
+		
+		
+	}
+	
+	public void courseExit(Course course) {
+		System.out.println("Kursa iptal ediliyor.. : " + course.courseName + "|" + course.courseDetail);
+		
+		
+	}
+	
+}

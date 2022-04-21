@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="inheritance.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="inheritance.CorparateCustomer"/>
+    <fullyQualifiedTypeName name="DatabaseLogger"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+</qualifiedTypeNameHistroy>
